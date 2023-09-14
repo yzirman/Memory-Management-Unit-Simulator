@@ -1,0 +1,3 @@
+/Users/yonizirman/documents/GitHub/Memory-Management-Unit-Simulator/build/CMakeFiles/MMUSIM.dir
+/Users/yonizirman/documents/GitHub/Memory-Management-Unit-Simulator/build/CMakeFiles/edit_cache.dir
+/Users/yonizirman/documents/GitHub/Memory-Management-Unit-Simulator/build/CMakeFiles/rebuild_cache.dir
